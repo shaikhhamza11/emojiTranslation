@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* .emoji {
+  border: 2px solid black;
+} */
+input {
+  width: 70%;
+  height: 2rem;
+  border: 2px solid black;
+
+  text-align: center;
+}
+p {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.emojiList {
+  padding: 2rem;
+}
